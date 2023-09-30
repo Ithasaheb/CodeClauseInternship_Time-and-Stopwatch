@@ -1,1 +1,1 @@
-# CodeClauseInternship_Time-and-Stopwatch
+# CodeClauseInternship_Timer-and-Stopwatch
